@@ -10,3 +10,11 @@ h1 {
 p { 
 font-size: 16px;
 }
+#countdown {
+  background-color: #EDE0F5;
+  padding: 20px;
+  border-radius: 15px;
+  max-width: 300px;
+  margin: 20px auto;
+  font-size: 22px;
+}
