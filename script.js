@@ -7,6 +7,6 @@ function updateCountdown() {
 let difference = halloween - today;
 let days = Math.ceil(difference / (1000 * 60 * 60 * 24));
 document.getElementById("countdown").innerHTML = 
-  days + " days until Hallowen!!";
+  days + " days until Halloween!!";
 }
 updateCountdown();
